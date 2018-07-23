@@ -7,7 +7,7 @@ const config = {
 }
 
 app.get('/*', function(req, res){
-    res.status(200).send('oke');
+    res.status(200).send('okeeee');
 });
 
 
